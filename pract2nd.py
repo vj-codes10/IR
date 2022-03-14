@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 14 17:48:53 2022
 
-@author: Vijay shelke
-"""
 """
 Pagerank is an algorithm used by google search to rank websites in thier
 search engine results.PageRank was named after larry page.
