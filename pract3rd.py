@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 14 18:15:15 2022
 
-@author: Vijay shelke
-"""
 """
  Implement Dynamic programming algorithm for computing the edit distance between strings s1 and s2.
  
